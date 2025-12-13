@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahjongways-hub.github.io/news/sitemap.xml
