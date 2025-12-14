@@ -1,82 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Homepage -->
-  <url>
-    <loc>https://mahjongways-hub.github.io/news/</loc>
-    <lastmod>2025-12-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-
   <!-- Index -->
   <url>
     <loc>https://mahjongways-hub.github.io/news/index.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.9</priority>
+    <priority>1.0</priority>
   </url>
 
   <!-- Articles -->
   <url>
     <loc>https://mahjongways-hub.github.io/news/arah-komputasi-menandai-kemunculan-variabel-gerak.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mahjongways-hub.github.io/news/cara-mahjong-ways-menjadi-obrolan-kreatif-seru.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mahjongways-hub.github.io/news/fluktuasi-energi-sosial-di-ruang-publik-sore.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mahjongways-hub.github.io/news/formula-efektif-mahjong-ways-menyeimbangkan-spin.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mahjongways-hub.github.io/news/lonjakan-interaksi-singkat-di-jam-makan-siang.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://mahjongways-hub.github.io/news/perubahan-intensitas-notifikasi-pagi-hari.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <loc>https://mahjongways-hub.github.io/news/perubahan-intensitas-notifikasi-pagi-hari-membentuk.html</loc>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://mahjongways-hub.github.io/news/reduksi-kebisingan-lingkungan-malam-hari.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <loc>https://mahjongways-hub.github.io/news/reduksi-kebisingan-lingkungan-malam-hari-mengunci.html</loc>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mahjongways-hub.github.io/news/rekaman-waktu-nyata-kembali-mengungkap-dinamika.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://mahjongways-hub.github.io/news/sinkronisasi-aktivitas-mikro-saat-kota-mulai.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mahjongways-hub.github.io/news/analisis-advance-deteksi-scatter-mahj.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mahjongways-hub.github.io/news/analisis-mendalam-dinamika-spin-pen.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mahjongways-hub.github.io/news/data-akurat-fase-turbulensi-reel-mahj.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mahjongways-hub.github.io/news/eksperimen-lapangan-temp-spin-cep.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mahjongways-hub.github.io/news/formula-strategis-respons-sistem-ritm.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mahjongways-hub.github.io/news/kajian-mekanis-mahjong-ways-gold-fra.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mahjongways-hub.github.io/news/laporan-model-spin-mahjong-wins-mendeteksi-aktivitas.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mahjongways-hub.github.io/news/laporan-statistik-fluktuasi-wild-mahjong.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mahjongways-hub.github.io/news/observasi-detail-mahjong-ways-pec.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mahjongways-hub.github.io/news/studi-mendalam-perbandingan-spin-s.html</loc>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -84,7 +146,7 @@
   <!-- Google Verification -->
   <url>
     <loc>https://mahjongways-hub.github.io/news/googleaa88976246a41bda.html</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
